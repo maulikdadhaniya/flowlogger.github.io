@@ -64,7 +64,7 @@ A **production-level** app should **not** embed this library for end users. It e
 ```
 ---
 
-## Automatic ViewModel event logging (`AutoLogTracker`)
+## ‼️ Automatic ViewModel event logging (`AutoLogTracker`) ‼️
 
 These rules apply only if you rely on **reflection-based** tracking of flows on a **ViewModel** (same mechanism as in the sample app).
 

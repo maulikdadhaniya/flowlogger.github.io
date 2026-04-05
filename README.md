@@ -62,6 +62,8 @@ A **production-level** app should **not** embed this library for end users. It e
     android:name="android.app.shortcuts"
     android:resource="@xml/flowlogger_shortcuts" />
 ```
+---
+
 ## Automatic ViewModel event logging (`AutoLogTracker`)
 
 These rules apply only if you rely on **reflection-based** tracking of flows on a **ViewModel** (same mechanism as in the sample app).
